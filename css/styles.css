@@ -1,5 +1,5 @@
 body{
-    background-color: lemonchiffon;
+    background-color: #97b59e;
 }
 
 h1{
@@ -8,5 +8,20 @@ h1{
 
 p{
     text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.color{
+    color: black;
+}
+
+.croissant-photo{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
 }
 
